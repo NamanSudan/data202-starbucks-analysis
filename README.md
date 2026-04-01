@@ -15,7 +15,7 @@ Statistical analysis of the Starbucks Customer Ordering Patterns dataset for DAT
 
 1. **Clone and create environment**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/NamanSudan/data202-starbucks-analysis.git
    cd data202-starbucks-analysis
    python -m venv venv
    source venv/bin/activate
@@ -40,6 +40,7 @@ data202-starbucks-analysis/
 ├── data/                  # Dataset (not tracked in git)
 ├── notebooks/             # Jupyter notebooks (one per analysis area)
 ├── presentation/          # Slides
+├── report/                # LaTeX report (10-12 pages, double column)
 ├── requirements.txt
 └── README.md
 ```
