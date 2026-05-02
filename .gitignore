@@ -34,3 +34,6 @@ data/*.parquet
 data/*.zip
 
 *.log
+
+# Private coordination notes, not part of submission repo
+presentation/final-presentation/team-presentation-plan.*
